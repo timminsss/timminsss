@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋 I'm Shelley</h1>
-<h3 align="center">A passionate full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
+<h1 align="center">hey 👋 it's Shelley here</h1>
+<h3 align="center">a passionate full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
 
-- 🌱 I’m currently learning **Javascript**
+ 🌱 I’m currently learning **Javascript, Typescript, Testing**
 
-- 📫 How to reach me **shelley.timmins@hotmail.co.uk**
+ 📫 reach me here >> **shelley.timmins@hotmail.co.uk**
 
 <h3 align="left">connect with me</h3>
 <p align="left">
