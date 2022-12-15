@@ -1,5 +1,5 @@
-<h1 align="center">hey 👋 it's Shelley here</h1>
-<h3 align="center">a passionate full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
+<h2 align="center">hey 👋 it's Shelley here</h2>
+<h3 align="center">a full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
 
  🌱 I’m currently learning **Javascript, Typescript, Testing**
 
