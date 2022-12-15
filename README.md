@@ -1,7 +1,7 @@
-<h2 align="center">hey 👋 it's Shelley here</h2>
-<h3 align="center">a full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
+<h3 align="center">hey 👋 it's Shelley here</h3>
+<h3 align="center">i'm a full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in Melbourne 🇦🇺</h3>
 
- 🌱 I’m currently learning **Javascript, Typescript, Testing**
+ 🌱 I’m currently learning **Javascript, Typescript, React**
 
  📫 reach me here >> **shelley.timmins@hotmail.co.uk**
 
