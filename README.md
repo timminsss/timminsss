@@ -3,7 +3,7 @@
 
  🌱 i’m currently learning **react**
 
- 📫 reach me here >> **shelley.timmins@hotmail.co.uk**
+ 📫 reach me here >> **shelley.timmins2@gmail.com**
 
 <h3 align="left">connect with me</h3>
 <p align="left">
